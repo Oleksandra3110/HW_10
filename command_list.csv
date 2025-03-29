@@ -1,0 +1,85 @@
+    1  cd repka
+    2  ls
+    3  cd 
+    4  clone
+    5  cd clone
+    6  cd u
+    7  users
+    8  ls
+    9  cd @
+   10  clone https://github.com/Oleksandra3110/HW_10.git
+   11  clone gh repo clone Oleksandra3110/HW_10
+   12  вшк
+   13  ls
+   14  cd postman
+   15  cd postman/
+   16  ls
+   17  cd music/
+   18  (clone) https://github.com/Oleksandra3110/HW_10.git
+   19  clone https://github.com/Oleksandra3110/HW_10.git/
+   20  clone gh repo clone Oleksandra3110/HW_10/
+   21  git clone https://github.com/Oleksandra3110/HW_10.git
+   22  cd repka
+   23  cd repka/
+   24   text_ignore.txt (touch);
+   25  /
+   26  touch
+   27  cd HW_10/
+   28  touch text_ignore.txt/
+   29  git status
+   30  GW64 ~/OneDrive/Рабочий стол/repka/HW_10~ git add text_ignore.txt
+   31  ls
+   32  touch text_ignore.txt
+   33  cd gitignore
+   34  notepad text_ignore.txt 
+   35  nano. gitignore
+   36  nano. gitignore text_ignore.txt
+   37  notepad. gitignore text_ignore.txt
+   38  notepad. gitignore text_ignore.txt
+   39  nano.gitignore
+   40  notepad.gitignore
+   41  ls
+   42  cd. gitignore
+   43  notepad
+   44  notepad. gitignore
+   45  ls
+   46  otepad. gitignore
+   47  nano .gitignore
+   48  ls
+   49  cd. repka
+   50  nano .gitignore
+   51  nano .gitignore
+   52  git status
+   53  nano .gitignore
+   54  git status  text_ignore.txt
+   55  git status
+   56  git add .
+   57  commit
+   58  commit .
+   59  git commit -m "New"
+   60  git config --global user.name "Oleksandra Pylypenko"
+   61  git config --global user.email "maxi-m1987@ukr.net"
+   62  git commit -m "New"
+   63  main_test.txt;
+   64  main_test.txt
+   65  git main_test.txt
+   66  touch main_test.txt
+   67  git add .
+   68  git commit -m "main_test.txt"
+   69  git checkout -b <develop>
+   70  git checkout -b <develo
+   71   git checkout -b develop
+   72  git checkout develop
+   73  touch develop_test.txt
+   74  git add .
+   75   git commit -m "Yo"
+   76  nano develop_test.txt file
+   77  nano .gitignore
+   78  nano develop_test.txt
+   79  git status
+   80  git add .
+   81  history command_list.csv
+   82  git add .
+   83  git commit -m "young"
+   84  git push
+   85  history > command_list.csv
